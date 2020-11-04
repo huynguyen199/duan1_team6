@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221026315998",
+    "firebase_url": "https://duan1team6.firebaseio.com",
+    "project_id": "duan1team6",
+    "storage_bucket": "duan1team6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221026315998:android:85a0a360e22154f0825c4f",
+        "android_client_info": {
+          "package_name": "com.example.duan1_team6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221026315998-u8sbk57ibnnngnh8r87inii326ukmavm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKexHetfGyD0ZkmcE_I6PvDyzoVTMnBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221026315998-u8sbk57ibnnngnh8r87inii326ukmavm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

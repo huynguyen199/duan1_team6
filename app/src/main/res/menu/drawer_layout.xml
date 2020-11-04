@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_xemdt"
+            android:title="điện thoại"
+            />
+        <item android:id="@+id/nav_thanhtoan"
+            android:title="Thành toán"
+            />
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/chucnangadmin">
+        <item android:title="Chức măng admin">
+            <menu>
+        <item android:id="@+id/nav_dienthoai"
+            android:title="quản lý điện thoại"/>
+        <item android:id="@+id/nav_qltailkhoan"
+            android:title="Quản lý tài khoản"
+            />
+        <item android:id="@+id/nav_thoat"
+            android:title="thoát"/>
+            </menu>
+        </item>
+    </group>
+</menu>
